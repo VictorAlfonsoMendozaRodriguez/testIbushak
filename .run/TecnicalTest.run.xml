@@ -1,0 +1,17 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="TecnicalTest" type="Application" factoryName="Application">
+    <option name="INCLUDE_PROVIDED_SCOPE" value="true" />
+    <option name="MAIN_CLASS_NAME" value="com.victor.TechnicalTestApplication" />
+    <module name="test" />
+    <option name="VM_PARAMETERS" value="-Dspring.profiles.active=local" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="com.victor.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
